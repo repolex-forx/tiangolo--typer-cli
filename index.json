@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "typer-cli",
+  "versions": [
+    {
+      "commit": "36a49a4ec532bc3d6ad138aa46d7e6ac8c092940",
+      "tag": "0.12.1",
+      "parsed_at": "2026-10-11T08:11:49.235624+00:00"
+    }
+  ]
+}
