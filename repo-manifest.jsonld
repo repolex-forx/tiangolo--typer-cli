@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/typer-cli/commit/36a49a4ec532bc3d6ad138aa46d7e6ac8c092940",
       "git:hexsha": "36a49a4ec532bc3d6ad138aa46d7e6ac8c092940",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.12.1"
     },
     {
